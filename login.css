@@ -1,0 +1,17 @@
+body{
+text-align: center;
+font-family:'Times New Roman', Times, serif ;
+height: 100%;
+ background-image: linear-gradient(rgba(25, 202, 55, 0.6),rgba(77, 24, 128, 0.6));
+ background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   padding-top: 20px;
+   
+}
+div{
+border:5px solid rgb(25, 0, 255);
+width:300px;
+margin-left:400px;
+margin-top: 50px;
+}
